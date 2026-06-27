@@ -9,8 +9,7 @@ This repository features an end-to-end data engineering and business intelligenc
 ---
 
 ## 📊 Dashboard Preview
-[Executive Sales Dashboard](image_94b604.jpg)
-
+[Executive Sales Dashboard](Screenshot 2026-06-23 221944.png)
 
 ---
 
